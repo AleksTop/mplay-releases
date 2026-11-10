@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "updatedAt": "2024-05-20T12:00:00Z",
+  "plugins": [
+    {
+      "id": "christmas-tree",
+      "name": "🎄 Ялинка (Christmas Tree)",
+      "description": "Анімація ялинки на оверлеї. Кожні 100 лайків додають нову кульку.",
+      "author": "MPlay Team",
+      "version": "1.0.0",
+      "downloadUrl": "https://raw.githubusercontent.com/AleksTop/mplay-releases/main/plugins/christmas-tree.js",
+      "tags": ["animation", "likes"]
+    },
+    {
+      "id": "Banka",
+      "name": "🍯 Банка подарунків",
+      "description": "Скляна банка, в яку падають подарунки. Показує загальну суму діамантів.",
+      "author": "MPlay Team",
+      "version": "1.0.0",
+      "downloadUrl": "https://raw.githubusercontent.com/AleksTop/mplay-releases/main/plugins/Banka.js",
+      "tags": ["gifts", "widget"]
+    }
+  ]
+}
